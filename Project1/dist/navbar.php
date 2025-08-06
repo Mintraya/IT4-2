@@ -5,7 +5,7 @@
     }
 ?>
 
-<nav class="app-header navbar navbar-expand bg-body">
+      <nav class="app-header navbar navbar-expand bg-body">
         <!--begin::Container-->
         <div class="container-fluid">
           <!--begin::Start Navbar Links-->
@@ -45,18 +45,14 @@
                   <!--begin::Message-->
                   <div class="d-flex">
                     <div class="flex-shrink-0">
-                      <img
-                        src="./assets/img/user1-128x128.jpg"
-                        alt="User Avatar"
-                        class="img-size-50 rounded-circle me-3"
-                      />
+                      <img src="./assets/img/user1-128x128.jpg" alt="User Avatar" class="img-size-50 rounded-circle me-3"/>
                     </div>
                     <div class="flex-grow-1">
                       <h3 class="dropdown-item-title">
                         Brad Diesel
-                        <span class="float-end fs-7 text-danger"
-                          ><i class="bi bi-star-fill"></i
-                        ></span>
+                        <span class="float-end fs-7 text-danger">
+                          <i class="bi bi-star-fill"></i>
+                        </span>
                       </h3>
                       <p class="fs-7">Call me whenever you can...</p>
                       <p class="fs-7 text-secondary">

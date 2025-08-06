@@ -31,7 +31,7 @@
                 <div class="small-box text-bg-primary">
                   <div class="inner">
                     <h3>150</h3>
-
+                    
                     <p>New Orders</p>
                   </div>
                   <svg
